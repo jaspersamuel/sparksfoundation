@@ -85,10 +85,10 @@ section a
   text-decoration:none;
   letter-spacing: 1px;
 }
-section .btntwo
+section .button
 {
-  background:#00b894;
-  color: white  ;
+  background:#00b884;
+  color: blue  ;
 }
 nav.menu a:first-child
 {

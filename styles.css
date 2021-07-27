@@ -87,10 +87,10 @@ section a
 }
 section .button
 {
-  background:#00b884;
-  color: blue  ;
+  background:#00b885;
+  color: yellow;
 }
 nav.menu a:first-child
 {
-        color:#00b894;
+        color:#00b897;
 }

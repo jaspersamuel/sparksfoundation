@@ -54,6 +54,7 @@ section h3
 {
   font-size:35px; font-weight: 200 ;
   letter-spacing: 3px;
+  color:black;
   text-shadow: 1px 1px 2px black ;
 }
 section h1
@@ -84,7 +85,7 @@ section a
 }
 section .button
 {
-  background:#00b885;
+  background:#00b894;
   color: yellow;
 }
 nav.menu a:first-child

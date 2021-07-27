@@ -10,6 +10,10 @@
   background-size:cover;
   background-repeat:no-repeat;
 }
+nav{
+  background-image:logo.jpeg;
+  background-color: #cccccc
+}
 nav .menu{
   width:45%;
   display:flex;
